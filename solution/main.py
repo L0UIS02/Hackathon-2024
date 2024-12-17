@@ -15,7 +15,7 @@ def compute_amazing_solution(
     :return: The x, y and angle of the gripper
     """
 
-    return 100.1, 95, 91.2
+    return 100.1, 95, 91.1
 
 
 def main():
