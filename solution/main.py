@@ -4,8 +4,8 @@ from argparse import ArgumentParser
 from rich.progress import track
 import pandas as pd
 
-from solution.mask_generator import *
-from solution.position_finder import *
+from mask_generator import *
+from position_finder import *
 
 
 def compute_amazing_solution(
