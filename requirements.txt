@@ -2,4 +2,8 @@ pandas
 numpy
 rich
 opencv-python
+matplotlib
 cvzone
+scipy
+collections
+math
