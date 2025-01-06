@@ -19,7 +19,7 @@ def calculate_holy_matrix(img, factor=1.0):
     # Trenne die HSV-Kanäle
     hue_channel, saturation_channel, value_channel = cv.split(hsv_image)
 
-    # Durchschnittliche Gradienten und 0.9- und 0.75-Quantile berechnen
+    # 0.9- und 0.75-Quantile der Gradienten berechnen
     hue_quantile_gradient_1 = calculate_quantile_gradient(hue_channel, 0.9*factor)
     saturation_quantile_gradient_1 = calculate_quantile_gradient(saturation_channel, 0.9*factor)
     value_quantile_gradient_1 = calculate_quantile_gradient(value_channel, 0.9*factor)
