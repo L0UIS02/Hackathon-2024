@@ -22,4 +22,4 @@ Unser Code funktioniert mit dem vorgegebenen Interface, die main()-Funktion habe
 
 Wir haben die meiste Zeit in einem privaten Github-Repository gearbeitet, damit andere sich nicht von unserer Lösung inspirieren lassen können (auch wenn sie nicht besonders originell ist). Deswegen sieht es so aus, als hätten wir alles heute erst irgendwo kopiert.
 
-Auch wenn wir nicht gewinnen: Vielen Dank für die Organisation! Wir hatten viel Spaß bei der Sach und haben viel gelernt.
+Auch wenn wir nicht gewinnen: Vielen Dank für die Organisation! Wir hatten viel Spaß bei der Sache und haben viel gelernt.
